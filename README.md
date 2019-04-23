@@ -7,9 +7,11 @@ Flutter package for [Evil Icons](http://evil-icons.io/)
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
 ![](https://img.shields.io/github/contributors/tvc12/evil_icons_flutter.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
-![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
+![](https://img.shields.io/badge/pub-v0.1.0-blue.svg)
 
 Icon evil pack with the code to support flutter, easy use, beautifully.
+
+![](demo.png)
 
 ### Usage
 
@@ -41,6 +43,6 @@ class User extends StatelessWidget {
 
 ### License
 
-This project is licenced under the [MIT]()
+This project is licenced under the [MIT](https://github.com/tvc12/evil_icons_flutter/blob/master/LICENSE)
 
 Any bundled fonts are copyright to their respective authors under MIT
