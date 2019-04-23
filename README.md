@@ -7,7 +7,7 @@ Flutter package for [Evil Icons](http://evil-icons.io/)
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
 ![](https://img.shields.io/github/contributors/tvc12/evil_icons_flutter.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
-![](https://img.shields.io/badge/pub-v0.1.0-blue.svg)
+![](https://img.shields.io/badge/pub-v0.1.1-blue.svg)
 
 Icon evil pack with the code to support flutter, easy use, beautifully.
 

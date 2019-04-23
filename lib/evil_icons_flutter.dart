@@ -25,7 +25,7 @@ class EvilIcons {
   static const IconData chevron_up = EvilIconData(0xf10e);
   static const IconData clock = EvilIconData(0xf10f);
   static const IconData close = EvilIconData(0xf110);
-  static const IconData clock_o = EvilIconData(0xf110);
+  static const IconData close_o = EvilIconData(0xf111);
   static const IconData comment = EvilIconData(0xf112);
   static const IconData credit_card = EvilIconData(0xf113);
   static const IconData envelope = EvilIconData(0xf114);
