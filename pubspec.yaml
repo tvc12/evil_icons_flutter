@@ -1,0 +1,24 @@
+name: evil_icons_flutter
+description: >-
+  Icon evil pack with the code to support flutter, easy use, beautifully.
+version: 0.1.0
+author: Vi Chi Thien <meomeocf98@gmail.com>
+homepage: https://github.com/tvc12/evil_icons_flutter
+repository: https://github.com/tvc12/evil_icons_flutter
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: EvilIcons
+      fonts:
+        - asset: fonts/EvilIcons.ttf
