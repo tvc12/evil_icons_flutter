@@ -1,5 +1,3 @@
-library evil_icons_flutter;
-
 import 'package:flutter/widgets.dart';
 
 class EvilIconData extends IconData {

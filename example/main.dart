@@ -33,9 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Center(
           child: Text(
             widget.title,
-            style: TextStyle(
-              color: Colors.white
-            ),
+            style: TextStyle(color: Colors.white),
           ),
         ),
       ),
@@ -48,12 +46,14 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                _createIcon(EvilIcons.sc_github, 'Github icon',),
+                _createIcon(
+                  EvilIcons.sc_github,
+                  'Github icon',
+                ),
                 _createIcon(EvilIcons.spinner_2, 'Spinner 2 icon'),
                 _createIcon(EvilIcons.plus, 'Plus icon'),
                 _createIcon(EvilIcons.play, 'Play icon'),
                 _createIcon(EvilIcons.star, 'Star icon'),
-
               ],
             ),
             Column(
@@ -84,12 +84,9 @@ class _MyHomePageState extends State<MyHomePage> {
             print(name);
           },
         ),
-        Text(name,
-         style: TextStyle(
-            color: iconColor,
-            fontWeight: FontWeight.bold,
-            fontSize: 16
-          ),
+        Text(
+          name,
+          style: TextStyle(color: iconColor, fontWeight: FontWeight.bold, fontSize: 16),
         ),
       ],
     );
