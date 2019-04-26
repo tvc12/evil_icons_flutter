@@ -1,0 +1,78 @@
+import 'package:evil_icons_flutter/evil_icons_data.dart';
+
+class EvilIcons {
+  EvilIcons._();
+  // See https://github.com/tvc12/evil_icons_flutter
+  // See http://evil-icons.io/
+
+  static const archive = EvilIconData(0xf100);
+  static const arrow_down = EvilIconData(0xf101);
+  static const arrow_left = EvilIconData(0xf102);
+  static const arrow_right = EvilIconData(0xf103);
+  static const arrow_up = EvilIconData(0xf104);
+  static const bell = EvilIconData(0xf105);
+  static const calendar = EvilIconData(0xf106);
+  static const camera = EvilIconData(0xf107);
+  static const cart = EvilIconData(0xf108);
+  static const chart = EvilIconData(0xf109);
+  static const check = EvilIconData(0xf10a);
+  static const chevron_down = EvilIconData(0xf10b);
+  static const chevron_left = EvilIconData(0xf10c);
+  static const chevron_right = EvilIconData(0xf10d);
+  static const chevron_up = EvilIconData(0xf10e);
+  static const clock = EvilIconData(0xf10f);
+  static const close = EvilIconData(0xf110);
+  static const close_o = EvilIconData(0xf111);
+  static const comment = EvilIconData(0xf112);
+  static const credit_card = EvilIconData(0xf113);
+  static const envelope = EvilIconData(0xf114);
+  static const exclamation = EvilIconData(0xf115);
+  static const external_link = EvilIconData(0xf116);
+  static const eye = EvilIconData(0xf117);
+  static const gear = EvilIconData(0xf118);
+  static const heart = EvilIconData(0xf119);
+  static const image = EvilIconData(0xf11a);
+  static const like = EvilIconData(0xf11b);
+  static const link = EvilIconData(0xf11c);
+  static const location = EvilIconData(0xf11d);
+  static const lock = EvilIconData(0xf11e);
+  static const minus = EvilIconData(0xf11f);
+  static const navicon = EvilIconData(0xf120);
+  static const paperclip = EvilIconData(0xf121);
+  static const pencil = EvilIconData(0xf122);
+  static const play = EvilIconData(0xf123);
+  static const plus = EvilIconData(0xf124);
+  static const pointer = EvilIconData(0xf125);
+  static const question = EvilIconData(0xf126);
+  static const redo = EvilIconData(0xf127);
+  static const refresh = EvilIconData(0xf128);
+  static const retweet = EvilIconData(0xf129);
+  static const sc_facebook = EvilIconData(0xf12a);
+  static const sc_github = EvilIconData(0xf12b);
+  static const sc_google_plus = EvilIconData(0xf12c);
+  static const sc_instagram = EvilIconData(0xf12d);
+  static const sc_linkedin = EvilIconData(0xf12e);
+  static const sc_odnoklassniki = EvilIconData(0xf12f);
+  static const sc_pinterest = EvilIconData(0xf130);
+  static const sc_skype = EvilIconData(0xf131);
+  static const sc_soundcloud = EvilIconData(0xf132);
+  static const sc_telegram = EvilIconData(0xf133);
+  static const sc_tumblr = EvilIconData(0xf134);
+  static const sc_twitter = EvilIconData(0xf135);
+  static const sc_vimeo = EvilIconData(0xf136);
+  static const sc_vk = EvilIconData(0xf137);
+  static const sc_youtube = EvilIconData(0xf138);
+  static const search = EvilIconData(0xf139);
+  static const share_apple = EvilIconData(0xf13a);
+  static const share_google = EvilIconData(0xf13b);
+  static const spinner = EvilIconData(0xf13c);
+  static const spinner_2 = EvilIconData(0xf13d);
+  static const spinner_3 = EvilIconData(0xf13e);
+  static const star = EvilIconData(0xf13f);
+  static const tag = EvilIconData(0xf140);
+  static const trash = EvilIconData(0xf141);
+  static const trophy = EvilIconData(0xf142);
+  static const undo = EvilIconData(0xf143);
+  static const unlock = EvilIconData(0xf144);
+  static const user = EvilIconData(0xf145);
+}

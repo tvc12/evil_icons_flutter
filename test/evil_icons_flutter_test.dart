@@ -6,4 +6,7 @@ main() => test('Test some icons', () {
       expect(EvilIcons.user.codePoint, 0xF145);
       expect(EvilIcons.sc_skype.codePoint, 0xf131);
       expect(EvilIcons.spinner.codePoint, 0xf13c);
+      expect(EvilIcons.archive.fontFamily, 'EvilIcons');
+      expect(EvilIcons.archive.fontPackage, 'evil_icons_flutter');
+
     });
