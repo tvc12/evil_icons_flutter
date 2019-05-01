@@ -1,19 +1,32 @@
 # evil_icons_flutter
 
-### Thanks to authors of [evil-icons](https://github.com/evil-icons/evil-icons) and [react native vector ICONS](https://github.com/oblador/react-native-vector-icons) library
+> 🖤 Evil Icons for Flutter.
 
-Flutter package for [Evil Icons](http://evil-icons.io/)
+*Made from [Evil Icons](https://github.com/evil-icons/evil-icons).*
 
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
 ![](https://img.shields.io/github/contributors/tvc12/evil_icons_flutter.svg)
-![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
 ![](https://img.shields.io/badge/pub-v0.2.0-blue.svg)
+![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
 
-Icon evil pack with the code to support flutter, easy use, beautifully.
+<img alt="demo" src="demo.png" width="300" />
 
-![](demo.png)
+## Installation
 
-### Usage
+### Add this to your package's pubspec.yaml file:
+
+```yaml
+dependencies:
+  evil_icons_flutter: ^0.2.0
+```
+
+### You can install packages from the command line:
+
+```
+$ flutter packages get
+```
+
+## Usage
 
 See more icon at [EvilIcons](http://evil-icons.io/) by [Alexander Madyankin](https://github.com/outpunk) & [Roman Shamin](https://twitter.com/romanshamin) (**70** icons)
 
@@ -35,14 +48,13 @@ class User extends StatelessWidget {
 
 ```
 
-### Contributors
+## Contributors
 
-| [![Vi Chi Thien](https://github.com/tvc12.png?size=100)](https://github.com/tvc12) |
-| :---: |
-| [Vi Chi Thien](https://github.com/tvc12) |
+| [![Thien Chi Vi](https://github.com/tvc12.png?size=100)](https://github.com/tvc12) | [![Cuong Duy Nguyen](https://github.com/cuongw.png?size=100)](https://github.com/cuongw) |
+| :---: | :---: |
+| [Thien Chi Vi](https://github.com/tvc12) | [Cuong Duy Nguyen](https://github.com/cuongw) |
 
-### License
+## License
 
 This project is licenced under the [MIT](https://github.com/tvc12/evil_icons_flutter/blob/master/LICENSE)
-
 Any bundled fonts are copyright to their respective authors under MIT
