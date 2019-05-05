@@ -8,9 +8,9 @@
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
 ![](https://img.shields.io/badge/pub-v0.2.0-blue.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
-[![HitCount](http://hits.dwyl.io/tvc12/evil_icons_flutter.svg)](http://hits.dwyl.io/tvc12/evil_icons_flutter)
+[![Hits-of-Code](https://hitsofcode.com/github/tvc12/evil_icons_flutter)](https://hitsofcode.com/view/github/tvc12/evil_icons_flutter)
 
-<img alt="demo" src="demo.png" width="300" />
+![](demo.png)
 
 ## Installation
 
