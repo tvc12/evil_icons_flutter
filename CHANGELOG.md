@@ -1,3 +1,8 @@
+## Version 0.2.1 (5-05-2019)
+
+- Add contributor
+- Update README
+
 ## Version 0.2.0 (24-04-2019)
 
 - Update core
