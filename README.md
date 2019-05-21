@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
 [![Hits-of-Code](https://hitsofcode.com/github/tvc12/evil_icons_flutter)](https://hitsofcode.com/view/github/tvc12/evil_icons_flutter)
 
-![](demo.png)
+<img src=demo.png width='300'/>
 
 ## Installation
 
