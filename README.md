@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/all_contributors-2-orange.svg)
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
-![](https://img.shields.io/badge/pub-v0.2.0-blue.svg)
+![](https://img.shields.io/badge/pub-v0.2.1-blue.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
 [![Hits-of-Code](https://hitsofcode.com/github/tvc12/evil_icons_flutter)](https://hitsofcode.com/view/github/tvc12/evil_icons_flutter)
 
