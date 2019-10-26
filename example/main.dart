@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:evil_icons_flutter/evil_icons_flutter.dart';
 
-main() => runApp(MyApp());
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
           iconSize: 55,
           color: iconColor,
           onPressed: () {
-            print(name);
+            debugPrint(name);
           },
         ),
         Text(
