@@ -1,3 +1,7 @@
+## Version 0.3.1 (26-10-2019)
+
+- Update README
+
 ## Version 0.3.0 (26-10-2019)
 
 - Update version package

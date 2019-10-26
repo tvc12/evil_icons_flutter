@@ -8,9 +8,9 @@
 [![Build Status](https://travis-ci.com/tvc12/evil_icons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/evil_icons_flutter)
 ![](https://img.shields.io/badge/pub-v0.2.1-blue.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/evil_icons_flutter.svg)
-[![Hits-of-Code](https://hitsofcode.com/github/tvc12/evil_icons_flutter)](https://hitsofcode.com/view/github/tvc12/evil_icons_flutter)
+[![HitCount](http://hits.dwyl.io/tvc12/evil_icons_flutter.svg)](http://hits.dwyl.io/tvc12/evil_icons_flutter)
 
-<img src=demo.png width='300'/>
+<img src="https://github.com/tvc12/evil_icons_flutter/raw/master/demo.png" width='300'/>
 
 ## Installation
 
@@ -18,7 +18,7 @@
 
 ```yaml
 dependencies:
-  evil_icons_flutter: ^0.2.1
+  evil_icons_flutter: ^0.3.1
 ```
 
 ### You can install packages from the command line:
