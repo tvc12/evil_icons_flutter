@@ -1,3 +1,8 @@
+## Version 0.3.0 (26-10-2019)
+
+- Update version package
+- Fix export library
+
 ## Version 0.2.1 (5-05-2019)
 
 - Add contributor
