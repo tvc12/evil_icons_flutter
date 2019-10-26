@@ -1,3 +1,7 @@
 library evil_icons_flutter;
 
-export 'evil_icons.dart';
+import 'package:flutter/material.dart';
+
+part 'evil_icons.dart';
+
+part 'evil_icons_data.dart';
