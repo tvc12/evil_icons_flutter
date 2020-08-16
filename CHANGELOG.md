@@ -1,3 +1,9 @@
+## Version 0.4.0 (16-08-2020)
+
+- Update README
+- Upgrade version
+- Preview icon
+
 ## Version 0.3.1 (26-10-2019)
 
 - Update README
