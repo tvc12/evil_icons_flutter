@@ -15,7 +15,7 @@
 
 ```yaml
 dependencies:
-  evil_icons_flutter: ^0.4.0
+  evil_icons_flutter: ^0.5.0
 ```
 
 ### You can install packages from the command line:
@@ -50,9 +50,9 @@ class User extends StatelessWidget {
 
 ## Contributors
 
-| [![Thien Chi Vi](https://github.com/tvc12.png?size=100)](https://github.com/tvc12) | [![Cuong Duy Nguyen](https://github.com/103cuong.png?size=100)](https://github.com/103cuong) |
+| [![Thien Chi Vi](https://github.com/tvc12.png?size=100)](https://github.com/tvc12) | [![Cuong Duy Nguyen](https://github.com/kimcuong060498.png?size=100)](https://github.com/kimcuong060498) |
 | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-|                      [Thien Chi Vi](https://github.com/tvc12)                      |                       [Cuong Duy Nguyen](https://github.com/103cuong)                        |
+|                      [Thien Chi Vi](https://github.com/tvc12)                      |                       [Cuong Duy Nguyen](https://github.com/kimcuong060498)                        |
 
 ## License
 
